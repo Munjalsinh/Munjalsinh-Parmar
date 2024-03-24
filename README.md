@@ -1,7 +1,7 @@
 ![logo](https://github.com/Munjalsinh/Munjalsinh-Parmar/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Munjalsinh-Parmar</h1>
 <h3 align="center">A passionate App Developer from Canada</h3>
-
+<img aligh="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW80NmszcnpxcWN5ZDFqbWJxdjdweTZqa2N4dG8xamJod3oxZHlqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munjalsinh-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="munjalsinh-parmar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munjalsinh-parmar" alt="munjalsinh-parmar" /></a> </p>
